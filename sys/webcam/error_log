@@ -1,0 +1,33 @@
+[16-May-2020 11:57:52 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 11:57:52 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 11:57:52 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 11:57:52 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 11
+[16-May-2020 11:57:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/studiovivian/public_html/sys/webcam/save_photos.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 11
+[16-May-2020 11:58:16 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 11:58:16 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 11:58:16 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 11:58:16 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 11
+[16-May-2020 11:58:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/studiovivian/public_html/sys/webcam/save_photos.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 11
+[16-May-2020 12:08:57 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 12:08:57 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 12:08:57 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 12:08:57 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 11
+[16-May-2020 12:08:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/studiovivian/public_html/sys/webcam/save_photos.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 11
+[16-May-2020 12:10:47 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 12:10:47 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 12:10:47 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 9
+[16-May-2020 12:10:47 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 11
+[16-May-2020 12:10:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/studiovivian/public_html/sys/webcam/save_photos.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 11
+[16-May-2020 12:12:10 America/Fortaleza] PHP Warning:  file_put_contents(fotos/45f6d46dd5f46c83bafa26b82122283b.jpg): failed to open stream: No such file or directory in /home1/studiovivian/public_html/sys/webcam/save_photos.php on line 26
